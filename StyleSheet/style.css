@@ -8,6 +8,9 @@
 header{
     background-color: #fff4e7;
 }
+
+  /* Nave Bar section style */
+       
 .nav{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -23,6 +26,9 @@ header{
     margin-right: 5%;
     letter-spacing: 2px;
 }
+
+/* header Section  */
+
 .web{
     padding: 10% 12% 2%;
     text-align: center;
@@ -56,7 +62,7 @@ p,h3{
     font-family:'work Sans';  
      
 }
-
+  /* conversaition Section style */     
 .team1{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -96,6 +102,9 @@ p,h3{
 .overall{
     margin: 5% 10%;
 }
+
+/* project sammary style.  */
+
 .blog{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -192,13 +201,14 @@ p,h3{
 .sponsarby{
     display: grid;
     grid-template-columns: repeat(5, 1fr);
-    /* align-items: center;
-    justify-content: space-between; */
     margin: 5% 10%;
 }
 .sponsarby>img{
     width: 50%;
 }
+
+         /* footer section  style */
+        
 .footer{
     margin-bottom: 100px;
     background-color: #070707;
